@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-Ummm...hello.
+Ummm... Hello.
 
 Okay, good bye!
